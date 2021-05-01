@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/LetsCodeSpringBranchForwarder/static/js/main.e0024e61.chunk.js",
+    "main.js.map": "/LetsCodeSpringBranchForwarder/static/js/main.e0024e61.chunk.js.map",
+    "runtime-main.js": "/LetsCodeSpringBranchForwarder/static/js/runtime-main.a1ff508b.js",
+    "runtime-main.js.map": "/LetsCodeSpringBranchForwarder/static/js/runtime-main.a1ff508b.js.map",
+    "index.html": "/LetsCodeSpringBranchForwarder/index.html",
+    "static/js/main.e0024e61.chunk.js.LICENSE.txt": "/LetsCodeSpringBranchForwarder/static/js/main.e0024e61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1ff508b.js",
+    "static/js/main.e0024e61.chunk.js"
+  ]
+}
